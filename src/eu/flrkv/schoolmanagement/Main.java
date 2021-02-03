@@ -4,10 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        Schulverwaltung s = new Schulverwaltung();
 
-        Lehrer l = new Lehrer("Markus", "Lanz", new Schulfach[]{new Schulfach(), new Schulfach()}, new Klasse[]{new Klasse()});
-
-
-        System.out.println(l.getPrename());
     }
 }

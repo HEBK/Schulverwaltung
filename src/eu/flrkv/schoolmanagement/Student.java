@@ -1,4 +1,4 @@
 package eu.flrkv.schoolmanagement;
 
-public class Klasse {
+public class Student {
 }

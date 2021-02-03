@@ -1,4 +1,4 @@
 package eu.flrkv.schoolmanagement;
 
-public class Schueler {
+public class Subject {
 }
